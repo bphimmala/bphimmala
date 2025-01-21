@@ -8,7 +8,7 @@ I'm looking to get an internship in the tech🐱‍💻, computer💻, and/or ga
 
 Other passions I have include 🌱environmental conservation🌱 and 🎨art🖊️. I haven't had much time to contribute to these passions recently, but I do hope I can intertwine my love for computers with conservation and art to one day help the future and our planet. 
 
-🚨 Though, I will say that AI art "generators" go against my morals and I find them very unethical, as they "learn" how to make pieces through stolen art that the creators feed to the AI. 
+🚨 Though, I must clarify that I do not support generative AI. 
 
 The project I'm most proud of is [Frat Rat Redemption](https://github.com/bphimmala/Frat-Rat-Redemption-Official), a text based RPG I made alongside 3 of my classmates for our CS100 final project at UCR.
 
