@@ -4,7 +4,7 @@ My name is ✨Baipon✨ !! My pronouns are they/she (preference for they, but sh
 
 I'm a 4th year full-time student at UCR. I major in Computer Engineering at Marlan and Rosemary Bounrs College of Engineering.
 
-I'm looking to get an internship in the tech🐱‍💻, computer💻, and/or gaming🎮 field within the next few years. I have a strong passion for all these things and I would like to hone my abilities and improve in any way I can to prepare.
+I'm looking to get a full-time position or internship in the tech🐱‍💻, computer💻, and/or gaming🎮 field. I would like to put my abilities and skills to work to enhance the industry as best as I can.
 
 Other passions I have include 🌱environmental conservation🌱 and 🎨art🖊️. I haven't had much time to contribute to these passions recently, but I do hope I can intertwine my love for computers with conservation and art to one day help the future and our planet. 
 
