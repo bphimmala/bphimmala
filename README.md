@@ -1,6 +1,6 @@
 ### Hello ‼️
 
-My name is ✨Baipon✨ !! My pronouns are they/she (preference for they, but she is good) and I am genderqueer.
+My name is ✨Baipon✨ !!
 
 I'm a 4th year full-time student at UCR. I major in Computer Engineering at Marlan and Rosemary Bounrs College of Engineering.
 
