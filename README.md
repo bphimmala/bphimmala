@@ -2,9 +2,9 @@
 
 My name is ✨Baipon✨ !!
 
-I'm a 4th year full-time student at UCR. I major in Computer Engineering at Marlan and Rosemary Bounrs College of Engineering.
+I'm a freshly graduated UCR BCOE student who majored in Computer Engineering!
 
-I'm looking to get a full-time position or internship in the tech🐱‍💻, computer💻, and/or gaming🎮 field. I would like to put my abilities and skills to work to enhance the industry as best as I can.
+I am looking to get a full-time position or internship in embedded systems, GPUs, and/or game development. I would like to put my abilities to work to enhance the industry and hone my skills as best as I can.
 
 Other passions I have include 🌱environmental conservation🌱 and 🎨art🖊️. I haven't had much time to contribute to these passions recently, but I do hope I can intertwine my love for computers with conservation and art to one day help the future and our planet. 
 
@@ -12,4 +12,4 @@ Other passions I have include 🌱environmental conservation🌱 and 🎨art🖊
 
 The project I'm most proud of is [Frat Rat Redemption](https://github.com/bphimmala/Frat-Rat-Redemption-Official), a text based RPG I made alongside 3 of my classmates for our CS100 final project at UCR.
 
-I'm mainly focusing on school but would love to contribute to any projects that can teach me anything new!
+I am ready to give my time, effort, and skills for projects and jobs that I can learn from! I can be contacted through my email, sabaiponp@gmail.com.
